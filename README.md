@@ -19,7 +19,7 @@ CREATE DATABASE empleados
 
 use empleados;
 
--- Table: empleados
+
 CREATE TABLE empleados (
   id int(0) NOT NULL AUTO_INCREMENT,
     nombre varchar(100) NOT NULL DEFAULT '',
